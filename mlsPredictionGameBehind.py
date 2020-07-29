@@ -2,6 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
 from sklearn.metrics import accuracy_score
+from sklearn.model_selection import train_test_split
 
 
 
@@ -31,7 +32,7 @@ def mlsAwayGoalAverage():
     return (mlsAwayGoals/number)
 
 
-def average_home_goals_Update(name):
+def averageHomeGoalsUpdate(name):
     i = 1
     teamDF = cseason.loc[cseason['Home'] == name]
     resultAry = np.asanyarray(teamDF[['Res']])
@@ -69,7 +70,7 @@ def average_home_goals_Update(name):
         averageDF.loc[index, 'MLSHG'] = [mlsUpdatingHomeGoals]
         i += 1
 
-def average_home_goals(name):
+def averageHomeGoals(name):
     teamDF = cseason.loc[cseason['Home'] == name]
     goals = teamDF['HG'].sum()
     games = (teamDF.Home == name).sum()
@@ -81,7 +82,7 @@ def average_home_goals(name):
     return ahg
 
 
-def average_away_goals_Update(name):
+def averageAwayGoalsUpdate(name):
     i = 1
     teamDF = cseason.loc[cseason['Away'] == name]
     ary1 = np.asanyarray(teamDF[['AG']])
@@ -108,7 +109,7 @@ def average_away_goals_Update(name):
 
 
 
-def average_away_goals(name):
+def averageAwayGoals(name):
 
     teamDF = cseason.loc[cseason['Away'] == name]
     goals = teamDF['AG'].sum()
@@ -122,7 +123,7 @@ def average_away_goals(name):
 
 
 
-def average_HG_against_Update(name):
+def averageHGagainstUpdate(name):
     i = 1
     teamDF = cseason.loc[cseason['Home'] == name]
     ary1 = np.asanyarray(teamDF[['AG']])
@@ -146,7 +147,7 @@ def average_HG_against_Update(name):
         averageDF.loc[index, 'HDS'] = [teamDS]
         i += 1
 
-def average_HG_against(name):
+def averageHGagainst(name):
 
     teamDF = cseason.loc[cseason['Home'] == name]
     goalsA = teamDF['AG'].sum()
@@ -158,7 +159,7 @@ def average_HG_against(name):
     return HGA
 
 
-def average_AG_against_Update(name):
+def averageAGagainstUpdate(name):
     i = 1
     teamDF = cseason.loc[cseason['Away'] == name]
     ary1 = np.asanyarray(teamDF[['HG']])
@@ -182,7 +183,7 @@ def average_AG_against_Update(name):
         averageDF.loc[index, 'ADS'] = [teamDS]
         i += 1
 
-def average_AG_against(name):
+def averageAGagainst(name):
 
     teamDF = cseason.loc[cseason['Away'] == name]
     goalsA = teamDF['HG'].sum()
@@ -194,19 +195,19 @@ def average_AG_against(name):
     return AGA
 
 def homeTeamAttackStrength(name):
-    homeAttack = average_home_goals(name)/mlsHomeGoalAverage()
+    homeAttack = averageHomeGoals(name)/mlsHomeGoalAverage()
     return homeAttack
 
 def awayTeamAttackStrength(name):
-    awayAttack = average_away_goals(name)/mlsAwayGoalAverage()
+    awayAttack = averageAwayGoals(name)/mlsAwayGoalAverage()
     return awayAttack
 
 def awayTeamDefenseStrength(name):
-    awayDefense = average_AG_against(name)/mlsHomeGoalAverage()
+    awayDefense = averageAGagainst(name)/mlsHomeGoalAverage()
     return awayDefense
 
 def homeTeamDefenseStrength(name):
-    homeDefense = average_HG_against(name)/mlsAwayGoalAverage()
+    homeDefense = averageHGagainst(name)/mlsAwayGoalAverage()
     return homeDefense
 
 ##call method
@@ -219,10 +220,10 @@ currentTeamStat = 0
 ##updating stats
 while (teamCount < len(nameAry)):
     name = nameAry[teamCount]
-    average_home_goals_Update(name)
-    average_away_goals_Update(name)
-    average_HG_against_Update(name)
-    average_AG_against_Update(name)
+    averageHomeGoalsUpdate(name)
+    averageAwayGoalsUpdate(name)
+    averageHGagainstUpdate(name)
+    averageAGagainstUpdate(name)
 
 
     teamCount +=1
@@ -243,10 +244,10 @@ while(predictingGoalCount <= len(season)):
 ##current stats
 while (currentTeamStat < len(nameAry)):
     name = nameAry[currentTeamStat]
-    currentDF.loc[currentTeamStat + 1, 'AHG'] = [average_home_goals(name)]
-    currentDF.loc[currentTeamStat + 1, 'AAG'] = [ average_away_goals(name)]
-    currentDF.loc[currentTeamStat + 1, 'AAGA'] = [average_AG_against(name)]
-    currentDF.loc[currentTeamStat + 1, 'AHGA'] = [average_HG_against(name)]
+    currentDF.loc[currentTeamStat + 1, 'AHG'] = [averageHomeGoals(name)]
+    currentDF.loc[currentTeamStat + 1, 'AAG'] = [ averageAwayGoals(name)]
+    currentDF.loc[currentTeamStat + 1, 'AAGA'] = [averageAGagainst(name)]
+    currentDF.loc[currentTeamStat + 1, 'AHGA'] = [averageHGagainst(name)]
 
     currentTeamStat +=1
 
@@ -259,10 +260,10 @@ while (currentTeamStat < len(upcomingGameDF['HT'])):
     home = upcomingGameDF.loc[currentTeamStat , 'HT']
     away = upcomingGameDF.loc[currentTeamStat , 'AT']
 
-    upcomingGameDF.loc[currentTeamStat , 'AHG'] = [average_home_goals(home)]
-    upcomingGameDF.loc[currentTeamStat , 'AAG'] = [average_away_goals(away)]
-    upcomingGameDF.loc[currentTeamStat , 'AAGA'] = [average_AG_against(away)]
-    upcomingGameDF.loc[currentTeamStat , 'AHGA'] = [average_HG_against(home)]
+    upcomingGameDF.loc[currentTeamStat , 'AHG'] = [averageHomeGoals(home)]
+    upcomingGameDF.loc[currentTeamStat , 'AAG'] = [averageAwayGoals(away)]
+    upcomingGameDF.loc[currentTeamStat , 'AAGA'] = [averageAGagainst(away)]
+    upcomingGameDF.loc[currentTeamStat , 'AHGA'] = [averageHGagainst(home)]
     upcomingGameDF.loc[currentTeamStat , 'HAS'] = [homeTeamAttackStrength(home)]
     upcomingGameDF.loc[currentTeamStat, 'HDS'] = [homeTeamDefenseStrength(home)]
     upcomingGameDF.loc[currentTeamStat , 'AAS'] = [awayTeamAttackStrength(away)]
@@ -297,7 +298,7 @@ X = np.asanyarray(featureDF)
 y = np.asarray(averageDF['Result'])
 y [0:5]
 
-from sklearn.model_selection import train_test_split
+
 X_train, X_test, y_train, y_test = train_test_split( X, y, test_size=0.2, random_state=2)
 print ('Train set:', X_train.shape,  y_train.shape)
 print ('Test set:', X_test.shape,  y_test.shape)
@@ -330,5 +331,4 @@ yhat = clf.predict(X_test)
 print(yhat)
 print(y_test)
 print (accuracy_score(y_test, yhat))
-
 
