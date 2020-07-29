@@ -319,11 +319,11 @@ clf.fit(X_train, y_train)
 nextGamesFeatures =upcomingGameDF[['HPG','APG']]
 
 gameProb = clf.predict_proba(nextGamesFeatures)
-upcomingGameDF['Prob'] = gameProb
-print(gameProb)
+appendDf = pd.DataFrame(gameProb, columns = ['Away Win', 'Tie', 'Home Win'])
 gamePred = clf.predict(nextGamesFeatures)
 upcomingGameDF['Pred'] = gamePred
-upcomingGameDF.to_csv('nextGames.csv' , sep = ',')
+upcomingGameDF = pd.concat([upcomingGameDF, appendDf], axis = 1)
+upcomingGameDF.to_csv('nextGames.csv')
 
 yhat = clf.predict(X_test)
 
