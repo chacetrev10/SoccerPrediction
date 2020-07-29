@@ -1,0 +1,436 @@
+Country,League,Season,Date,Time,Home,Away,HG,AG,Res,Number
+USA,MLS,2019,2/3/2019,18:00,Philadelphia Union,Toronto FC,1,3,A,1
+USA,MLS,2019,2/3/2019,19:30,Orlando City,New York City,2,2,D,2
+USA,MLS,2019,2/3/2019,21:30,Columbus Crew,New York Red Bulls,1,1,D,3
+USA,MLS,2019,2/3/2019,21:30,FC Dallas,New England Revolution,1,1,D,4
+USA,MLS,2019,2/3/2019,23:00,Colorado Rapids,Portland Timbers,3,3,D,5
+USA,MLS,2019,2/3/2019,23:00,Houston Dynamo,Real Salt Lake,1,1,D,6
+USA,MLS,2019,2/3/2019,23:00,Vancouver Whitecaps,Minnesota United,2,3,A,7
+USA,MLS,2019,3/3/2019,1:00,Los Angeles Galaxy,Chicago Fire,2,1,H,8
+USA,MLS,2019,3/3/2019,3:00,San Jose Earthquakes,Montreal Impact,1,2,A,9
+USA,MLS,2019,3/3/2019,3:00,Seattle Sounders,FC Cincinnati,4,1,H,10
+USA,MLS,2019,3/3/2019,23:00,DC United,Atlanta United,2,0,H,11
+USA,MLS,2019,4/3/2019,1:30,Los Angeles FC,Sporting Kansas City,2,1,H,12
+USA,MLS,2019,9/3/2019,18:00,Chicago Fire,Orlando City,1,1,D,13
+USA,MLS,2019,9/3/2019,19:00,New England Revolution,Columbus Crew,0,2,A,14
+USA,MLS,2019,9/3/2019,20:30,FC Dallas,Los Angeles Galaxy,2,0,H,15
+USA,MLS,2019,9/3/2019,22:00,Houston Dynamo,Montreal Impact,2,1,H,16
+USA,MLS,2019,9/3/2019,23:00,Real Salt Lake,Vancouver Whitecaps,1,0,H,17
+USA,MLS,2019,10/3/2019,1:00,San Jose Earthquakes,Minnesota United,0,3,A,18
+USA,MLS,2019,10/3/2019,3:00,Seattle Sounders,Colorado Rapids,2,0,H,19
+USA,MLS,2019,10/3/2019,19:00,New York City,DC United,0,0,D,20
+USA,MLS,2019,10/3/2019,19:00,Sporting Kansas City,Philadelphia Union,2,0,H,21
+USA,MLS,2019,10/3/2019,21:00,Atlanta United,FC Cincinnati,1,1,D,22
+USA,MLS,2019,10/3/2019,23:30,Los Angeles FC,Portland Timbers,4,1,H,23
+USA,MLS,2019,16/03/2019,17:00,Chicago Fire,Seattle Sounders,2,4,A,24
+USA,MLS,2019,16/03/2019,18:00,Columbus Crew,FC Dallas,1,0,H,25
+USA,MLS,2019,16/03/2019,19:00,Houston Dynamo,Vancouver Whitecaps,3,2,H,26
+USA,MLS,2019,16/03/2019,19:30,New York Red Bulls,San Jose Earthquakes,4,1,H,27
+USA,MLS,2019,16/03/2019,20:00,Orlando City,Montreal Impact,1,3,A,28
+USA,MLS,2019,17/03/2019,0:00,DC United,Real Salt Lake,5,0,H,29
+USA,MLS,2019,17/03/2019,2:30,Los Angeles Galaxy,Minnesota United,3,2,H,30
+USA,MLS,2019,17/03/2019,19:00,New York City,Los Angeles FC,2,2,D,31
+USA,MLS,2019,17/03/2019,21:00,FC Cincinnati,Portland Timbers,3,0,H,32
+USA,MLS,2019,17/03/2019,23:00,Atlanta United,Philadelphia Union,1,1,D,33
+USA,MLS,2019,17/03/2019,23:30,Toronto FC,New England Revolution,3,2,H,34
+USA,MLS,2019,18/03/2019,1:00,Colorado Rapids,Sporting Kansas City,1,1,D,35
+USA,MLS,2019,23/03/2019,21:45,FC Dallas,Colorado Rapids,2,1,H,36
+USA,MLS,2019,23/03/2019,23:30,New York Red Bulls,Orlando City,0,1,A,37
+USA,MLS,2019,23/03/2019,23:30,Philadelphia Union,Columbus Crew,3,0,H,38
+USA,MLS,2019,24/03/2019,2:30,Los Angeles FC,Real Salt Lake,2,1,H,39
+USA,MLS,2019,24/03/2019,20:00,New England Revolution,FC Cincinnati,0,2,A,40
+USA,MLS,2019,30/03/2019,0:00,Toronto FC,New York City,4,0,H,41
+USA,MLS,2019,30/03/2019,17:00,Chicago Fire,New York Red Bulls,1,0,H,42
+USA,MLS,2019,30/03/2019,18:00,New England Revolution,Minnesota United,2,1,H,43
+USA,MLS,2019,30/03/2019,19:00,Sporting Kansas City,Montreal Impact,7,1,H,44
+USA,MLS,2019,30/03/2019,19:30,San Jose Earthquakes,Los Angeles FC,0,5,A,45
+USA,MLS,2019,30/03/2019,23:30,FC Cincinnati,Philadelphia Union,0,2,A,46
+USA,MLS,2019,30/03/2019,23:30,Columbus Crew,Atlanta United,2,0,H,47
+USA,MLS,2019,31/03/2019,2:00,Colorado Rapids,Houston Dynamo,1,4,A,48
+USA,MLS,2019,31/03/2019,2:00,Real Salt Lake,FC Dallas,2,4,A,49
+USA,MLS,2019,31/03/2019,3:00,Vancouver Whitecaps,Seattle Sounders,0,0,D,50
+USA,MLS,2019,31/03/2019,23:30,Orlando City,DC United,1,2,A,51
+USA,MLS,2019,1/4/2019,2:00,Los Angeles Galaxy,Portland Timbers,2,1,H,52
+USA,MLS,2019,6/4/2019,3:00,Vancouver Whitecaps,Los Angeles Galaxy,0,2,A,53
+USA,MLS,2019,6/4/2019,18:00,New York City,Montreal Impact,0,0,D,54
+USA,MLS,2019,6/4/2019,20:00,DC United,Los Angeles FC,0,4,A,55
+USA,MLS,2019,6/4/2019,20:00,Toronto FC,Chicago Fire,2,2,D,56
+USA,MLS,2019,7/4/2019,0:00,New York Red Bulls,Minnesota United,1,2,A,57
+USA,MLS,2019,7/4/2019,0:30,Columbus Crew,New England Revolution,1,0,H,58
+USA,MLS,2019,7/4/2019,0:30,Orlando City,Colorado Rapids,4,3,H,59
+USA,MLS,2019,7/4/2019,0:30,Philadelphia Union,FC Dallas,2,1,H,60
+USA,MLS,2019,7/4/2019,1:00,San Jose Earthquakes,Portland Timbers,3,0,H,61
+USA,MLS,2019,7/4/2019,3:00,Seattle Sounders,Real Salt Lake,1,0,H,62
+USA,MLS,2019,7/4/2019,20:00,FC Cincinnati,Sporting Kansas City,1,1,D,63
+USA,MLS,2019,10/4/2019,1:00,DC United,Montreal Impact,0,0,D,64
+USA,MLS,2019,13/04/2019,1:30,Chicago Fire,Vancouver Whitecaps,1,1,D,65
+USA,MLS,2019,13/04/2019,18:00,Montreal Impact,Columbus Crew,1,0,H,66
+USA,MLS,2019,13/04/2019,20:00,Houston Dynamo,San Jose Earthquakes,2,1,H,67
+USA,MLS,2019,13/04/2019,21:00,Seattle Sounders,Toronto FC,3,2,H,68
+USA,MLS,2019,13/04/2019,22:00,Minnesota United,New York City,3,3,D,69
+USA,MLS,2019,14/04/2019,0:30,New England Revolution,Atlanta United,0,2,A,70
+USA,MLS,2019,14/04/2019,1:00,FC Dallas,Portland Timbers,2,1,H,71
+USA,MLS,2019,14/04/2019,2:00,Colorado Rapids,DC United,2,3,A,72
+USA,MLS,2019,14/04/2019,2:00,Real Salt Lake,Orlando City,2,1,H,73
+USA,MLS,2019,14/04/2019,3:30,Los Angeles FC,FC Cincinnati,2,0,H,74
+USA,MLS,2019,14/04/2019,3:30,Los Angeles Galaxy,Philadelphia Union,2,0,H,75
+USA,MLS,2019,15/04/2019,0:00,Sporting Kansas City,New York Red Bulls,2,2,D,76
+USA,MLS,2019,18/04/2019,3:00,Vancouver Whitecaps,Los Angeles FC,1,0,H,77
+USA,MLS,2019,20/04/2019,0:30,FC Cincinnati,Real Salt Lake,0,3,A,78
+USA,MLS,2019,20/04/2019,1:00,Toronto FC,Minnesota United,4,3,H,79
+USA,MLS,2019,20/04/2019,4:00,Los Angeles Galaxy,Houston Dynamo,2,1,H,80
+USA,MLS,2019,20/04/2019,18:00,Chicago Fire,Colorado Rapids,4,1,H,81
+USA,MLS,2019,20/04/2019,18:00,Philadelphia Union,Montreal Impact,3,0,H,82
+USA,MLS,2019,20/04/2019,20:00,Orlando City,Vancouver Whitecaps,1,0,H,83
+USA,MLS,2019,20/04/2019,21:00,Atlanta United,FC Dallas,1,2,A,84
+USA,MLS,2019,21/04/2019,0:30,Columbus Crew,Portland Timbers,1,3,A,85
+USA,MLS,2019,21/04/2019,0:30,New England Revolution,New York Red Bulls,1,0,H,86
+USA,MLS,2019,21/04/2019,3:00,San Jose Earthquakes,Sporting Kansas City,4,1,H,87
+USA,MLS,2019,21/04/2019,21:00,DC United,New York City,0,2,A,88
+USA,MLS,2019,22/04/2019,0:00,Los Angeles FC,Seattle Sounders,4,1,H,89
+USA,MLS,2019,25/04/2019,0:00,New York City,Chicago Fire,1,0,H,90
+USA,MLS,2019,25/04/2019,0:30,Columbus Crew,DC United,0,1,A,91
+USA,MLS,2019,25/04/2019,0:30,New England Revolution,Montreal Impact,0,3,A,92
+USA,MLS,2019,25/04/2019,1:00,Minnesota United,Los Angeles Galaxy,0,0,D,93
+USA,MLS,2019,25/04/2019,3:30,Seattle Sounders,San Jose Earthquakes,2,2,D,94
+USA,MLS,2019,27/04/2019,18:00,New York City,Orlando City,1,1,D,95
+USA,MLS,2019,27/04/2019,20:00,Toronto FC,Portland Timbers,1,2,A,96
+USA,MLS,2019,27/04/2019,20:30,FC Dallas,San Jose Earthquakes,0,0,D,97
+USA,MLS,2019,27/04/2019,22:00,Vancouver Whitecaps,Philadelphia Union,1,1,D,98
+USA,MLS,2019,27/04/2019,23:00,Atlanta United,Colorado Rapids,1,0,H,99
+USA,MLS,2019,28/04/2019,0:00,New York Red Bulls,FC Cincinnati,1,0,H,100
+USA,MLS,2019,28/04/2019,1:30,Houston Dynamo,Columbus Crew,2,0,H,101
+USA,MLS,2019,28/04/2019,1:30,Sporting Kansas City,New England Revolution,4,4,D,102
+USA,MLS,2019,28/04/2019,17:30,Montreal Impact,Chicago Fire,1,0,H,103
+USA,MLS,2019,28/04/2019,18:30,Minnesota United,DC United,1,0,H,104
+USA,MLS,2019,28/04/2019,20:30,Seattle Sounders,Los Angeles FC,1,1,D,105
+USA,MLS,2019,29/04/2019,1:00,Los Angeles Galaxy,Real Salt Lake,2,1,H,106
+USA,MLS,2019,2/5/2019,0:30,Philadelphia Union,FC Cincinnati,2,0,H,107
+USA,MLS,2019,4/5/2019,2:00,Colorado Rapids,Vancouver Whitecaps,2,3,A,108
+USA,MLS,2019,4/5/2019,19:00,New York Red Bulls,Los Angeles Galaxy,3,2,H,109
+USA,MLS,2019,4/5/2019,21:00,Houston Dynamo,FC Dallas,2,1,H,110
+USA,MLS,2019,4/5/2019,21:00,Orlando City,Toronto FC,0,2,A,111
+USA,MLS,2019,4/5/2019,22:00,Montreal Impact,New York City,0,2,A,112
+USA,MLS,2019,5/5/2019,0:30,Philadelphia Union,New England Revolution,6,1,H,113
+USA,MLS,2019,5/5/2019,1:00,DC United,Columbus Crew,3,1,H,114
+USA,MLS,2019,5/5/2019,1:00,Minnesota United,Seattle Sounders,1,1,D,115
+USA,MLS,2019,5/5/2019,2:00,Real Salt Lake,Portland Timbers,1,2,A,116
+USA,MLS,2019,5/5/2019,3:00,San Jose Earthquakes,FC Cincinnati,1,0,H,117
+USA,MLS,2019,5/5/2019,3:30,Los Angeles FC,Chicago Fire,0,0,D,118
+USA,MLS,2019,6/5/2019,2:00,Sporting Kansas City,Atlanta United,0,3,A,119
+USA,MLS,2019,9/5/2019,0:00,Atlanta United,Toronto FC,2,0,H,120
+USA,MLS,2019,9/5/2019,0:30,Columbus Crew,Los Angeles Galaxy,3,1,H,121
+USA,MLS,2019,9/5/2019,1:00,Chicago Fire,New England Revolution,5,0,H,122
+USA,MLS,2019,9/5/2019,1:00,New York Red Bulls,Montreal Impact,1,2,A,123
+USA,MLS,2019,11/5/2019,3:10,Vancouver Whitecaps,Portland Timbers,1,0,H,124
+USA,MLS,2019,11/5/2019,18:00,FC Cincinnati,Montreal Impact,2,1,H,125
+USA,MLS,2019,11/5/2019,19:00,FC Dallas,New York Red Bulls,1,3,A,126
+USA,MLS,2019,11/5/2019,20:00,Toronto FC,Philadelphia Union,1,2,A,127
+USA,MLS,2019,11/5/2019,21:00,Los Angeles Galaxy,New York City,0,2,A,128
+USA,MLS,2019,12/5/2019,0:30,Columbus Crew,Los Angeles FC,0,3,A,129
+USA,MLS,2019,12/5/2019,0:30,New England Revolution,San Jose Earthquakes,3,1,H,130
+USA,MLS,2019,12/5/2019,1:00,Chicago Fire,Minnesota United,2,0,H,131
+USA,MLS,2019,12/5/2019,2:00,Colorado Rapids,Real Salt Lake,2,3,A,132
+USA,MLS,2019,12/5/2019,3:00,Seattle Sounders,Houston Dynamo,1,0,H,133
+USA,MLS,2019,12/5/2019,19:30,Atlanta United,Orlando City,1,0,H,134
+USA,MLS,2019,13/05/2019,0:00,DC United,Sporting Kansas City,1,0,H,135
+USA,MLS,2019,16/05/2019,1:00,Toronto FC,DC United,0,0,D,136
+USA,MLS,2019,16/05/2019,1:30,Houston Dynamo,Portland Timbers,1,1,D,137
+USA,MLS,2019,16/05/2019,3:00,Vancouver Whitecaps,Atlanta United,0,1,A,138
+USA,MLS,2019,16/05/2019,3:30,Seattle Sounders,Orlando City,2,1,H,139
+USA,MLS,2019,17/05/2019,3:00,Los Angeles FC,FC Dallas,2,0,H,140
+USA,MLS,2019,18/05/2019,18:00,Montreal Impact,New England Revolution,0,0,D,141
+USA,MLS,2019,18/05/2019,20:00,Real Salt Lake,Toronto FC,3,0,H,142
+USA,MLS,2019,18/05/2019,20:30,San Jose Earthquakes,Chicago Fire,4,1,H,143
+USA,MLS,2019,19/05/2019,0:30,Philadelphia Union,Seattle Sounders,0,0,D,144
+USA,MLS,2019,19/05/2019,1:00,Minnesota United,Columbus Crew,1,0,H,145
+USA,MLS,2019,19/05/2019,1:30,Houston Dynamo,DC United,2,1,H,146
+USA,MLS,2019,19/05/2019,1:30,Sporting Kansas City,Vancouver Whitecaps,1,1,D,147
+USA,MLS,2019,19/05/2019,20:00,Orlando City,FC Cincinnati,5,1,H,148
+USA,MLS,2019,19/05/2019,22:00,New York Red Bulls,Atlanta United,1,0,H,149
+USA,MLS,2019,20/05/2019,0:30,FC Dallas,Los Angeles FC,1,1,D,150
+USA,MLS,2019,20/05/2019,1:00,Los Angeles Galaxy,Colorado Rapids,0,1,A,151
+USA,MLS,2019,23/05/2019,1:00,New York Red Bulls,Vancouver Whitecaps,2,2,D,152
+USA,MLS,2019,25/05/2019,0:00,Orlando City,Los Angeles Galaxy,0,1,A,153
+USA,MLS,2019,25/05/2019,2:00,Real Salt Lake,Atlanta United,2,1,H,154
+USA,MLS,2019,25/05/2019,3:30,Los Angeles FC,Montreal Impact,4,2,H,155
+USA,MLS,2019,25/05/2019,20:30,Chicago Fire,New York City,1,1,D,156
+USA,MLS,2019,26/05/2019,0:00,Vancouver Whitecaps,FC Dallas,2,1,H,157
+USA,MLS,2019,26/05/2019,0:30,FC Cincinnati,New York Red Bulls,0,2,A,158
+USA,MLS,2019,26/05/2019,0:30,New England Revolution,DC United,1,1,D,159
+USA,MLS,2019,26/05/2019,0:30,Philadelphia Union,Portland Timbers,1,3,A,160
+USA,MLS,2019,26/05/2019,1:00,Minnesota United,Houston Dynamo,1,0,H,161
+USA,MLS,2019,26/05/2019,2:00,Colorado Rapids,Columbus Crew,3,2,H,162
+USA,MLS,2019,26/05/2019,23:00,Sporting Kansas City,Seattle Sounders,3,2,H,163
+USA,MLS,2019,27/05/2019,0:30,Toronto FC,San Jose Earthquakes,1,2,A,164
+USA,MLS,2019,30/05/2019,0:00,Atlanta United,Minnesota United,3,0,H,165
+USA,MLS,2019,30/05/2019,0:30,Montreal Impact,Real Salt Lake,2,1,H,166
+USA,MLS,2019,30/05/2019,1:00,DC United,Chicago Fire,3,3,D,167
+USA,MLS,2019,30/05/2019,1:30,Philadelphia Union,Colorado Rapids,1,1,D,168
+USA,MLS,2019,30/05/2019,1:30,Sporting Kansas City,Los Angeles Galaxy,0,2,A,169
+USA,MLS,2019,1/6/2019,3:00,Vancouver Whitecaps,Toronto FC,1,1,D,170
+USA,MLS,2019,1/6/2019,22:00,Montreal Impact,Orlando City,0,3,A,171
+USA,MLS,2019,1/6/2019,23:00,Atlanta United,Chicago Fire,2,0,H,172
+USA,MLS,2019,2/6/2019,0:00,New York Red Bulls,Real Salt Lake,4,0,H,173
+USA,MLS,2019,2/6/2019,0:30,Columbus Crew,New York City,2,2,D,174
+USA,MLS,2019,2/6/2019,1:00,DC United,San Jose Earthquakes,1,1,D,175
+USA,MLS,2019,2/6/2019,1:00,FC Dallas,Seattle Sounders,2,1,H,176
+USA,MLS,2019,2/6/2019,1:30,Colorado Rapids,FC Cincinnati,3,1,H,177
+USA,MLS,2019,2/6/2019,1:30,Houston Dynamo,Sporting Kansas City,1,1,D,178
+USA,MLS,2019,2/6/2019,3:30,Portland Timbers,Los Angeles FC,2,3,A,179
+USA,MLS,2019,2/6/2019,21:00,Minnesota United,Philadelphia Union,2,3,A,180
+USA,MLS,2019,3/6/2019,3:30,Los Angeles Galaxy,New England Revolution,1,2,A,181
+USA,MLS,2019,6/6/2019, 00:30,Montreal Impact,Seattle Sounders,2,1,H,182
+USA,MLS,2019,7/6/2019, 00:00,New York City,FC Cincinnati,5,2,H,183
+USA,MLS,2019,8/6/2019,0:00,Toronto FC,Sporting Kansas City,2,2,D,184
+USA,MLS,2019,8/6/2019,20:30,San Jose Earthquakes,FC Dallas,2,2,D,185
+USA,MLS,2019,9/6/2019,0:30,Philadelphia Union,New York Red Bulls,3,2,H,186
+USA,MLS,2019,9/6/2019,2:00,Colorado Rapids,Minnesota United,1,0,H,187
+USA,MLS,2019,23/06/2019,0:30,FC Cincinnati,Los Angeles Galaxy,0,2,A,188
+USA,MLS,2019,23/06/2019,1:00,Chicago Fire,Real Salt Lake,1,1,D,189
+USA,MLS,2019,23/06/2019,1:00,FC Dallas,Toronto FC,3,0,H,190
+USA,MLS,2019,23/06/2019,3:00,Vancouver Whitecaps,Colorado Rapids,2,2,D,191
+USA,MLS,2019,23/06/2019,4:00,Portland Timbers,Houston Dynamo,4,0,H,192
+USA,MLS,2019,23/06/2019,22:30,Columbus Crew,Sporting Kansas City,0,1,A,193
+USA,MLS,2019,27/06/2019,0:00,New England Revolution,Philadelphia Union,1,1,D,194
+USA,MLS,2019,27/06/2019,0:30,Montreal Impact,Portland Timbers,2,1,H,195
+USA,MLS,2019,27/06/2019,1:00,DC United,Orlando City,1,0,H,196
+USA,MLS,2019,27/06/2019,1:00,Toronto FC,Atlanta United,3,2,H,197
+USA,MLS,2019,27/06/2019,2:00,FC Dallas,Vancouver Whitecaps,2,2,D,198
+USA,MLS,2019,27/06/2019,3:30,San Jose Earthquakes,Houston Dynamo,2,0,H,199
+USA,MLS,2019,29/06/2019,1:00,New York Red Bulls,Chicago Fire,3,1,H,200
+USA,MLS,2019,29/06/2019,3:00,Colorado Rapids,Los Angeles FC,1,0,H,201
+USA,MLS,2019,29/06/2019,21:00,Minnesota United,FC Cincinnati,7,1,H,202
+USA,MLS,2019,29/06/2019,23:00,Atlanta United,Montreal Impact,2,1,H,203
+USA,MLS,2019,30/06/2019,0:00,New York City,Philadelphia Union,4,2,H,204
+USA,MLS,2019,30/06/2019,0:30,Columbus Crew,Orlando City,0,2,A,205
+USA,MLS,2019,30/06/2019,0:30,New England Revolution,Houston Dynamo,2,1,H,206
+USA,MLS,2019,30/06/2019,1:00,DC United,Toronto FC,1,1,D,207
+USA,MLS,2019,30/06/2019,3:00,Real Salt Lake,Sporting Kansas City,2,0,H,208
+USA,MLS,2019,30/06/2019,3:00,San Jose Earthquakes,Los Angeles Galaxy,3,0,H,209
+USA,MLS,2019,30/06/2019,3:00,Seattle Sounders,Vancouver Whitecaps,1,0,H,210
+USA,MLS,2019,1/7/2019,4:00,Portland Timbers,FC Dallas,1,0,H,211
+USA,MLS,2019,4/7/2019,0:00,New York City,Seattle Sounders,3,0,H,212
+USA,MLS,2019,4/7/2019,0:30,Orlando City,Philadelphia Union,1,3,A,213
+USA,MLS,2019,4/7/2019,1:00,Chicago Fire,Atlanta United,5,1,H,214
+USA,MLS,2019,4/7/2019,1:00,Minnesota United,San Jose Earthquakes,3,1,H,215
+USA,MLS,2019,4/7/2019,1:30,Sporting Kansas City,Los Angeles FC,1,5,A,216
+USA,MLS,2019,4/7/2019,2:00,Houston Dynamo,New York Red Bulls,4,0,H,217
+USA,MLS,2019,4/7/2019,3:00,Real Salt Lake,Columbus Crew,1,0,H,218
+USA,MLS,2019,5/7/2019,2:00,Colorado Rapids,New England Revolution,1,2,A,219
+USA,MLS,2019,5/7/2019,2:00,FC Dallas,DC United,2,0,H,220
+USA,MLS,2019,5/7/2019,3:30,Los Angeles Galaxy,Toronto FC,2,0,H,221
+USA,MLS,2019,7/7/2019,0:30,Columbus Crew,Seattle Sounders,1,2,A,222
+USA,MLS,2019,7/7/2019,0:30,FC Cincinnati,Houston Dynamo,3,2,H,223
+USA,MLS,2019,7/7/2019,0:30,Montreal Impact,Minnesota United,2,3,A,224
+USA,MLS,2019,7/7/2019,1:40,Sporting Kansas City,Chicago Fire,1,0,H,225
+USA,MLS,2019,7/7/2019,3:30,Los Angeles FC,Vancouver Whitecaps,6,1,H,226
+USA,MLS,2019,7/7/2019,3:30,San Jose Earthquakes,Real Salt Lake,1,0,H,227
+USA,MLS,2019,7/7/2019,19:00,Atlanta United,New York Red Bulls,3,3,D,228
+USA,MLS,2019,7/7/2019,21:30,Philadelphia Union,Orlando City,2,2,D,229
+USA,MLS,2019,7/7/2019,23:30,New York City,Portland Timbers,0,1,A,230
+USA,MLS,2019,13/07/2019,0:00,DC United,New England Revolution,2,2,D,231
+USA,MLS,2019,13/07/2019,2:00,Houston Dynamo,Los Angeles FC,1,3,A,232
+USA,MLS,2019,13/07/2019,4:00,Los Angeles Galaxy,San Jose Earthquakes,1,3,A,233
+USA,MLS,2019,14/07/2019,0:30,Montreal Impact,Toronto FC,0,2,A,234
+USA,MLS,2019,14/07/2019,0:30,Orlando City,Columbus Crew,1,0,H,235
+USA,MLS,2019,14/07/2019,1:00,Chicago Fire,FC Cincinnati,1,2,A,236
+USA,MLS,2019,14/07/2019,1:00,Minnesota United,FC Dallas,1,0,H,237
+USA,MLS,2019,14/07/2019,3:00,Real Salt Lake,Philadelphia Union,4,0,H,238
+USA,MLS,2019,14/07/2019,3:00,Vancouver Whitecaps,Sporting Kansas City,0,3,A,239
+USA,MLS,2019,14/07/2019,4:00,Portland Timbers,Colorado Rapids,2,2,D,240
+USA,MLS,2019,14/07/2019,20:55,Seattle Sounders,Atlanta United,2,1,H,241
+USA,MLS,2019,14/07/2019,23:30,New York Red Bulls,New York City,2,1,H,242
+USA,MLS,2019,18/07/2019,0:00,Atlanta United,Houston Dynamo,5,0,H,243
+USA,MLS,2019,18/07/2019,0:00,New England Revolution,Vancouver Whitecaps,4,0,H,244
+USA,MLS,2019,18/07/2019,1:00,Chicago Fire,Columbus Crew,2,2,D,245
+USA,MLS,2019,18/07/2019,1:00,Toronto FC,New York Red Bulls,3,1,H,246
+USA,MLS,2019,19/07/2019,1:00,FC Cincinnati,DC United,1,4,A,247
+USA,MLS,2019,19/07/2019,3:00,Portland Timbers,Orlando City,1,1,D,248
+USA,MLS,2019,20/07/2019,3:00,Los Angeles Galaxy,Los Angeles FC,3,2,H,249
+USA,MLS,2019,21/07/2019,0:30,Columbus Crew,Montreal Impact,2,1,H,250
+USA,MLS,2019,21/07/2019,0:30,Philadelphia Union,Chicago Fire,2,0,H,251
+USA,MLS,2019,21/07/2019,0:30,Toronto FC,Houston Dynamo,1,3,A,252
+USA,MLS,2019,21/07/2019,1:30,Sporting Kansas City,FC Dallas,0,2,A,253
+USA,MLS,2019,21/07/2019,2:00,Colorado Rapids,New York City,1,2,A,254
+USA,MLS,2019,21/07/2019,3:00,Real Salt Lake,Minnesota United,1,1,D,255
+USA,MLS,2019,21/07/2019,3:00,Vancouver Whitecaps,San Jose Earthquakes,1,3,A,256
+USA,MLS,2019,21/07/2019,21:00,Atlanta United,DC United,2,0,H,257
+USA,MLS,2019,21/07/2019,23:00,FC Cincinnati,New England Revolution,0,2,A,258
+USA,MLS,2019,22/07/2019,0:30,Orlando City,New York Red Bulls,0,1,A,259
+USA,MLS,2019,22/07/2019,2:30,Seattle Sounders,Portland Timbers,1,2,A,260
+USA,MLS,2019,27/07/2019,0:30,New York City,Sporting Kansas City,3,1,H,261
+USA,MLS,2019,27/07/2019,3:00,Los Angeles FC,Atlanta United,4,3,H,262
+USA,MLS,2019,28/07/2019,0:00,New England Revolution,Orlando City,4,1,H,263
+USA,MLS,2019,28/07/2019,0:30,New York Red Bulls,Columbus Crew,2,3,A,264
+USA,MLS,2019,28/07/2019,1:00,Chicago Fire,DC United,0,0,D,265
+USA,MLS,2019,28/07/2019,1:00,FC Dallas,Real Salt Lake,0,0,D,266
+USA,MLS,2019,28/07/2019,1:00,Houston Dynamo,Seattle Sounders,0,1,A,267
+USA,MLS,2019,28/07/2019,1:00,Minnesota United,Vancouver Whitecaps,0,0,D,268
+USA,MLS,2019,28/07/2019,1:00,Montreal Impact,Philadelphia Union,4,0,H,269
+USA,MLS,2019,28/07/2019,1:00,Toronto FC,FC Cincinnati,2,1,H,270
+USA,MLS,2019,28/07/2019,3:00,San Jose Earthquakes,Colorado Rapids,3,1,H,271
+USA,MLS,2019,28/07/2019,3:30,Portland Timbers,Los Angeles Galaxy,4,0,H,272
+USA,MLS,2019,3/8/2019,22:00,Atlanta United,Los Angeles Galaxy,3,0,H,273
+USA,MLS,2019,3/8/2019,23:00,New York Red Bulls,Toronto FC,2,0,H,274
+USA,MLS,2019,4/8/2019,0:30,New England Revolution,Los Angeles FC,0,2,A,275
+USA,MLS,2019,4/8/2019,0:30,Orlando City,FC Dallas,2,0,H,276
+USA,MLS,2019,4/8/2019,1:00,FC Cincinnati,Vancouver Whitecaps,1,2,A,277
+USA,MLS,2019,4/8/2019,2:00,Colorado Rapids,Montreal Impact,6,3,H,278
+USA,MLS,2019,4/8/2019,2:00,Houston Dynamo,Chicago Fire,0,1,A,279
+USA,MLS,2019,4/8/2019,3:00,Real Salt Lake,New York City,3,1,H,280
+USA,MLS,2019,4/8/2019,3:00,San Jose Earthquakes,Columbus Crew,1,1,D,281
+USA,MLS,2019,4/8/2019,21:00,Minnesota United,Portland Timbers,1,0,H,282
+USA,MLS,2019,5/8/2019,0:30,DC United,Philadelphia Union,1,5,A,283
+USA,MLS,2019,5/8/2019,3:00,Seattle Sounders,Sporting Kansas City,2,3,A,284
+USA,MLS,2019,9/8/2019,0:00,New York City,Houston Dynamo,3,2,H,285
+USA,MLS,2019,10/8/2019,21:00,Seattle Sounders,New England Revolution,3,3,D,286
+USA,MLS,2019,11/8/2019,0:30,Columbus Crew,FC Cincinnati,2,2,D,287
+USA,MLS,2019,11/8/2019,0:30,Toronto FC,Orlando City,1,1,D,288
+USA,MLS,2019,11/8/2019,1:00,FC Dallas,Minnesota United,5,3,H,289
+USA,MLS,2019,11/8/2019,1:30,Sporting Kansas City,Real Salt Lake,1,2,A,290
+USA,MLS,2019,11/8/2019,2:00,Chicago Fire,Montreal Impact,3,2,H,291
+USA,MLS,2019,11/8/2019,2:00,Colorado Rapids,San Jose Earthquakes,2,1,H,292
+USA,MLS,2019,11/8/2019,4:00,Portland Timbers,Vancouver Whitecaps,3,1,H,293
+USA,MLS,2019,11/8/2019,20:55,Atlanta United,New York City,2,1,H,294
+USA,MLS,2019,11/8/2019,23:00,Philadelphia Union,Houston Dynamo,2,1,H,295
+USA,MLS,2019,12/8/2019,0:30,DC United,Los Angeles Galaxy,2,1,H,296
+USA,MLS,2019,12/8/2019,3:00,Los Angeles FC,New York Red Bulls,4,2,H,297
+USA,MLS,2019,15/08/2019,0:30,Orlando City,Sporting Kansas City,1,0,H,298
+USA,MLS,2019,15/08/2019,1:00,Minnesota United,Colorado Rapids,1,0,H,299
+USA,MLS,2019,15/08/2019,3:00,Real Salt Lake,Seattle Sounders,3,0,H,300
+USA,MLS,2019,15/08/2019,3:30,Los Angeles Galaxy,FC Dallas,2,0,H,301
+USA,MLS,2019,15/08/2019,4:00,Portland Timbers,Chicago Fire,3,2,H,302
+USA,MLS,2019,18/08/2019,0:00,New York Red Bulls,New England Revolution,1,1,D,303
+USA,MLS,2019,18/08/2019,0:30,Columbus Crew,Toronto FC,2,2,D,304
+USA,MLS,2019,18/08/2019,0:30,FC Cincinnati,New York City,1,4,A,305
+USA,MLS,2019,18/08/2019,0:30,Montreal Impact,FC Dallas,3,3,D,306
+USA,MLS,2019,18/08/2019,1:00,Chicago Fire,Philadelphia Union,2,0,H,307
+USA,MLS,2019,18/08/2019,1:00,Minnesota United,Orlando City,1,1,D,308
+USA,MLS,2019,18/08/2019,1:30,Sporting Kansas City,San Jose Earthquakes,2,1,H,309
+USA,MLS,2019,18/08/2019,2:00,Houston Dynamo,Colorado Rapids,2,2,D,310
+USA,MLS,2019,18/08/2019,3:00,Los Angeles Galaxy,Seattle Sounders,2,2,D,311
+USA,MLS,2019,18/08/2019,3:00,Real Salt Lake,Los Angeles FC,0,2,A,312
+USA,MLS,2019,18/08/2019,3:00,Vancouver Whitecaps,DC United,1,0,H,313
+USA,MLS,2019,19/08/2019,3:00,Portland Timbers,Atlanta United,0,2,A,314
+USA,MLS,2019,22/08/2019,0:00,New York City,Columbus Crew,1,0,H,315
+USA,MLS,2019,22/08/2019,1:00,DC United,New York Red Bulls,1,2,A,316
+USA,MLS,2019,22/08/2019,3:30,Los Angeles FC,San Jose Earthquakes,4,0,H,317
+USA,MLS,2019,23/08/2019,2:30,Sporting Kansas City,Minnesota United,1,0,H,318
+USA,MLS,2019,24/08/2019,1:00,Orlando City,Atlanta United,0,1,A,319
+USA,MLS,2019,24/08/2019,3:00,Portland Timbers,Seattle Sounders,1,2,A,320
+USA,MLS,2019,25/08/2019,0:00,New York City,New York Red Bulls,2,1,H,321
+USA,MLS,2019,25/08/2019,0:30,New England Revolution,Chicago Fire,2,1,H,322
+USA,MLS,2019,25/08/2019,0:30,Philadelphia Union,DC United,3,1,H,323
+USA,MLS,2019,25/08/2019,0:30,Toronto FC,Montreal Impact,2,1,H,324
+USA,MLS,2019,25/08/2019,3:00,Real Salt Lake,Colorado Rapids,2,0,H,325
+USA,MLS,2019,25/08/2019,3:00,San Jose Earthquakes,Vancouver Whitecaps,3,1,H,326
+USA,MLS,2019,25/08/2019,23:00,FC Cincinnati,Columbus Crew,1,3,A,327
+USA,MLS,2019,26/08/2019,1:00,FC Dallas,Houston Dynamo,5,1,H,328
+USA,MLS,2019,26/08/2019,3:30,Los Angeles FC,Los Angeles Galaxy,3,3,D,329
+USA,MLS,2019,29/08/2019,1:00,Montreal Impact,Vancouver Whitecaps,2,1,H,330
+USA,MLS,2019,1/9/2019,0:00,New York Red Bulls,Colorado Rapids,0,2,A,331
+USA,MLS,2019,1/9/2019,0:30,Columbus Crew,Chicago Fire,1,1,D,332
+USA,MLS,2019,1/9/2019,0:30,Montreal Impact,DC United,0,3,A,333
+USA,MLS,2019,1/9/2019,0:30,New England Revolution,Toronto FC,1,1,D,334
+USA,MLS,2019,1/9/2019,0:30,Philadelphia Union,Atlanta United,3,1,H,335
+USA,MLS,2019,1/9/2019,1:00,FC Dallas,FC Cincinnati,3,1,H,336
+USA,MLS,2019,1/9/2019,1:30,Sporting Kansas City,Houston Dynamo,1,0,H,337
+USA,MLS,2019,1/9/2019,3:00,Vancouver Whitecaps,New York City,1,3,A,338
+USA,MLS,2019,1/9/2019,3:30,Portland Timbers,Real Salt Lake,1,0,H,339
+USA,MLS,2019,1/9/2019,3:30,San Jose Earthquakes,Orlando City,3,0,H,340
+USA,MLS,2019,1/9/2019,23:30,Seattle Sounders,Los Angeles Galaxy,4,3,H,341
+USA,MLS,2019,2/9/2019,3:30,Los Angeles FC,Minnesota United,0,2,A,342
+USA,MLS,2019,7/9/2019,20:30,New York City,New England Revolution,2,1,H,343
+USA,MLS,2019,8/9/2019,0:30,FC Cincinnati,Toronto FC,1,5,A,344
+USA,MLS,2019,8/9/2019,0:30,Orlando City,Los Angeles FC,2,2,D,345
+USA,MLS,2019,8/9/2019,2:00,Colorado Rapids,Seattle Sounders,2,0,H,346
+USA,MLS,2019,8/9/2019,3:30,Portland Timbers,Sporting Kansas City,2,1,H,347
+USA,MLS,2019,12/9/2019,0:00,New York City,Toronto FC,1,1,D,348
+USA,MLS,2019,12/9/2019,1:30,Houston Dynamo,Minnesota United,2,0,H,349
+USA,MLS,2019,12/9/2019,2:00,Colorado Rapids,Los Angeles Galaxy,2,1,H,350
+USA,MLS,2019,12/9/2019,2:30,Real Salt Lake,San Jose Earthquakes,1,0,H,351
+USA,MLS,2019,14/09/2019,17:30,New York City,San Jose Earthquakes,2,1,H,352
+USA,MLS,2019,14/09/2019,20:30,Chicago Fire,FC Dallas,4,0,H,353
+USA,MLS,2019,15/09/2019,0:00,Atlanta United,Columbus Crew,1,3,A,354
+USA,MLS,2019,15/09/2019,0:30,Montreal Impact,FC Cincinnati,0,1,A,355
+USA,MLS,2019,15/09/2019,0:30,Orlando City,New England Revolution,3,3,D,356
+USA,MLS,2019,15/09/2019,0:30,Philadelphia Union,Los Angeles FC,1,1,D,357
+USA,MLS,2019,15/09/2019,3:00,Vancouver Whitecaps,Houston Dynamo,2,1,H,358
+USA,MLS,2019,15/09/2019,20:30,Portland Timbers,DC United,0,1,A,359
+USA,MLS,2019,15/09/2019,22:00,Toronto FC,Colorado Rapids,3,2,H,360
+USA,MLS,2019,15/09/2019,22:30,Minnesota United,Real Salt Lake,3,1,H,361
+USA,MLS,2019,15/09/2019,23:00,Seattle Sounders,New York Red Bulls,4,2,H,362
+USA,MLS,2019,16/09/2019,3:00,Los Angeles Galaxy,Sporting Kansas City,7,2,H,363
+USA,MLS,2019,19/09/2019,0:30,FC Cincinnati,Atlanta United,0,2,A,364
+USA,MLS,2019,19/09/2019,3:30,Portland Timbers,New York Red Bulls,0,2,A,365
+USA,MLS,2019,19/09/2019,3:30,Seattle Sounders,FC Dallas,0,0,D,366
+USA,MLS,2019,21/09/2019,20:30,Atlanta United,San Jose Earthquakes,3,1,H,367
+USA,MLS,2019,21/09/2019,22:00,Vancouver Whitecaps,Columbus Crew,1,1,D,368
+USA,MLS,2019,22/09/2019,0:30,FC Cincinnati,Chicago Fire,0,0,D,369
+USA,MLS,2019,22/09/2019,0:30,New England Revolution,Real Salt Lake,0,0,D,370
+USA,MLS,2019,22/09/2019,1:30,Houston Dynamo,Orlando City,2,1,H,371
+USA,MLS,2019,22/09/2019,1:30,Sporting Kansas City,Colorado Rapids,2,3,A,372
+USA,MLS,2019,22/09/2019,3:30,Los Angeles FC,Toronto FC,1,1,D,373
+USA,MLS,2019,22/09/2019,3:30,Los Angeles Galaxy,Montreal Impact,2,1,H,374
+USA,MLS,2019,22/09/2019,20:55,Portland Timbers,Minnesota United,0,0,D,375
+USA,MLS,2019,22/09/2019,23:00,FC Dallas,New York City,1,1,D,376
+USA,MLS,2019,22/09/2019,23:30,New York Red Bulls,Philadelphia Union,2,0,H,377
+USA,MLS,2019,23/09/2019,1:00,DC United,Seattle Sounders,2,0,H,378
+USA,MLS,2019,26/09/2019,0:00,New York City,Atlanta United,4,1,H,379
+USA,MLS,2019,26/09/2019,1:00,Minnesota United,Sporting Kansas City,2,1,H,380
+USA,MLS,2019,26/09/2019,2:30,Real Salt Lake,Los Angeles Galaxy,1,2,A,381
+USA,MLS,2019,26/09/2019,3:30,Los Angeles FC,Houston Dynamo,3,1,H,382
+USA,MLS,2019,26/09/2019,3:30,Portland Timbers,New England Revolution,2,2,D,383
+USA,MLS,2019,26/09/2019,4:00,San Jose Earthquakes,Philadelphia Union,1,2,A,384
+USA,MLS,2019,29/09/2019,22:00,Chicago Fire,Toronto FC,2,2,D,385
+USA,MLS,2019,29/09/2019,22:00,Columbus Crew,Philadelphia Union,2,0,H,386
+USA,MLS,2019,29/09/2019,22:00,FC Cincinnati,Orlando City,1,1,D,387
+USA,MLS,2019,29/09/2019,22:00,Montreal Impact,Atlanta United,1,1,D,388
+USA,MLS,2019,29/09/2019,22:00,New England Revolution,New York City,2,0,H,389
+USA,MLS,2019,29/09/2019,22:00,New York Red Bulls,DC United,0,0,D,390
+USA,MLS,2019,30/09/2019,0:30,Colorado Rapids,FC Dallas,3,0,H,391
+USA,MLS,2019,30/09/2019,0:30,Los Angeles Galaxy,Vancouver Whitecaps,3,4,A,392
+USA,MLS,2019,30/09/2019,0:30,Minnesota United,Los Angeles FC,1,1,D,393
+USA,MLS,2019,30/09/2019,0:30,Real Salt Lake,Houston Dynamo,2,1,H,394
+USA,MLS,2019,30/09/2019,0:30,San Jose Earthquakes,Seattle Sounders,0,1,A,395
+USA,MLS,2019,30/09/2019,0:30,Sporting Kansas City,Portland Timbers,2,2,D,396
+USA,MLS,2019,6/10/2019,21:00,Atlanta United,New England Revolution,3,1,H,397
+USA,MLS,2019,6/10/2019,21:00,DC United,FC Cincinnati,0,0,D,398
+USA,MLS,2019,6/10/2019,21:00,FC Dallas,Sporting Kansas City,6,0,H,399
+USA,MLS,2019,6/10/2019,21:00,Houston Dynamo,Los Angeles Galaxy,4,2,H,400
+USA,MLS,2019,6/10/2019,21:00,Los Angeles FC,Colorado Rapids,3,1,H,401
+USA,MLS,2019,6/10/2019,21:00,Montreal Impact,New York Red Bulls,3,0,H,402
+USA,MLS,2019,6/10/2019,21:00,Orlando City,Chicago Fire,2,5,A,403
+USA,MLS,2019,6/10/2019,21:00,Philadelphia Union,New York City,1,2,A,404
+USA,MLS,2019,6/10/2019,21:00,Portland Timbers,San Jose Earthquakes,3,1,H,405
+USA,MLS,2019,6/10/2019,21:00,Seattle Sounders,Minnesota United,1,0,H,406
+USA,MLS,2019,6/10/2019,21:00,Toronto FC,Columbus Crew,1,0,H,407
+USA,MLS,2019,6/10/2019,21:00,Vancouver Whitecaps,Real Salt Lake,0,1,A,408
+USA,MLS,2019,19/10/2019,18:00,Atlanta United,New England Revolution,1,0,H,409
+USA,MLS,2019,19/10/2019,20:30,Seattle Sounders,FC Dallas,3,3,D,410
+USA,MLS,2019,19/10/2019,23:00,Toronto FC,DC United,1,1,D,411
+USA,MLS,2019,20/10/2019,3:00,Real Salt Lake,Portland Timbers,2,1,H,412
+USA,MLS,2019,20/10/2019,20:00,Philadelphia Union,New York Red Bulls,3,3,D,413
+USA,MLS,2019,21/10/2019,1:30,Minnesota United,Los Angeles Galaxy,1,2,A,414
+USA,MLS,2019,24/10/2019,0:00,New York City,Toronto FC,1,2,A,415
+USA,MLS,2019,24/10/2019,3:00,Seattle Sounders,Real Salt Lake,2,0,H,416
+USA,MLS,2019,25/10/2019,1:00,Atlanta United,Philadelphia Union,2,0,H,417
+USA,MLS,2019,25/10/2019,3:30,Los Angeles FC,Los Angeles Galaxy,5,3,H,418
+USA,MLS,2019,30/10/2019, 02:00,Los Angeles FC,Seattle Sounders,1,3,A,419
+USA,MLS,2019,31/10/2019, 00:00,Atlanta United,Toronto FC,1,2,A,420
+USA,MLS,2019,10/11/2019,20:00,Seattle Sounders,Toronto FC,3,1,H,421
+USA,MLS,2020,29/02/2020,18:00,DC United,Colorado Rapids,1,2,A,422
+USA,MLS,2020,29/02/2020,20:00,Montreal Impact,New England Revolution,2,1,H,423
+USA,MLS,2020,29/02/2020,20:30,Houston Dynamo,Los Angeles Galaxy,1,1,D,424
+USA,MLS,2020,29/02/2020,22:30,San Jose Earthquakes,Toronto FC,2,2,D,425
+USA,MLS,2020,29/02/2020,23:00,FC Dallas,Philadelphia Union,2,0,H,426
+USA,MLS,2020,29/02/2020,23:00,Orlando City,Real Salt Lake,0,0,D,427
+USA,MLS,2020,1/3/2020,1:00,Nashville SC,Atlanta United,1,2,A,428
+USA,MLS,2020,1/3/2020,3:30,Vancouver Whitecaps,Sporting Kansas City,1,3,A,429
+USA,MLS,2020,1/3/2020,17:30,Columbus Crew,New York City,1,0,H,430
+USA,MLS,2020,1/3/2020,18:00,New York Red Bulls,FC Cincinnati,3,2,H,431
+USA,MLS,2020,1/3/2020,20:00,Seattle Sounders,Chicago Fire,2,1,H,432
+USA,MLS,2020,1/3/2020,22:30,Los Angeles FC,Inter Miami CF,1,0,H,433
+USA,MLS,2020,2/3/2020,0:30,Portland Timbers,Minnesota United,1,3,A,434
+,,,,,Inter Miami CF,Colorado Rapids,1,1,D,435
